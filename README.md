@@ -18,6 +18,6 @@ Instructions:
 The script will parse the pasted send.cm URL and create a links.html file with all sub-page links.
 
 Usage:
-  - Follow the above listed steps 1 - 4. 
+  - Follow the above listed steps 1 - 4 
   - Copy the highest page link of the send.cm URL. For example if the send.cm URL has 1-12 sub-pages, copy the link of page 12 and paste it to the script command line
   - Follow above step 6
