@@ -1,6 +1,6 @@
 # send.cm-crawler
 
-The script will parse the pasted send.cm folder and crawl the subfolders. It will generate a links.html file with all the subfolder links which then can be iported into JDownloader through select and copy
+The script will parse the pasted send.cm folder and crawl the subfolders. It will generate a links.html file with all the subfolder links which then can be iported into JDownloader through select and copy. It will not parse the download links of the root folder. 
 
 Instructions:
 1. Install required utilities:
