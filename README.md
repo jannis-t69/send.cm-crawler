@@ -11,3 +11,4 @@ Instructions:
 3. Make script executable with chmod +x <script-file-name>
 4. execute script with ./<script-file-name>
 5. Paste the send.cm URL to the commandline request
+6. Start JDownloader, open the created links.html file in your browser, select all and copy them into clipboard. JDownloader Observer should import the copied links from clipboard
