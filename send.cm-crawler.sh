@@ -25,7 +25,7 @@ read -p "Copy and paste the send.cm URL: "  pagelink
 # Write html open tags to file
 echo '<!DOCTYPE html><html><body>'>links.html
 ### Get the subdirectories 
-subDirs=$(curl -s $pagelink |  grep -E "class=\"link-02\"")
+subDirs=$(curl -s $pagelink |  grep -E "class=\"tx-dark\"")
 
 # Convert the variable to an array
 read -d '' -a subDirsarray <<< $subDirs
